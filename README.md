@@ -1,6 +1,5 @@
-# Vpatrol
+# CROSS BORDER ACTIVITIES ANALYSIS
 
-README: Cross-Border Activities Analysis
 
 Project Overview::
 
@@ -13,7 +12,7 @@ Satellite Details: Satellite imagery data covering key areas along the border be
 News Reports: Recent news articles and social media posts related to cross-border incidents.
 Historical Incidents Database: A summary of past border incidents, including dates, locations, and outcomes.
 
-Project Tasks and Deliverables
+Project Tasks and Deliverables::
 
 1. Geospatial Analysis
 Task: Analyze geospatial data to identify areas with significant cross-border movements. Utilize GIS tools to create heat maps and identify hotspots.
